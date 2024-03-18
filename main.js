@@ -64,10 +64,10 @@ magikarp.learnAttackSkill(flameWheel);
 // - newGameNewLuck() -> IF necessary, you will be informed or if you want, have fun!
 
 // For EXAMPLE:
-// jirachi.attack("Meteormash", rayquaza);
-// rayquaza.attack("Dragon Pulse", jirachi);
-// rayquaza.getMagics();
-// rayquaza.showStatus();
+jirachi.attack("Meteormash", rayquaza);
+rayquaza.attack("Dragon Pulse", jirachi);
+rayquaza.getMagics();
+rayquaza.showStatus();
 // _________________________________________________________________________________________
 
 // Open your Terminal and let the battle begin:

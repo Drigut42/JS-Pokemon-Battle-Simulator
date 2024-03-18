@@ -64,7 +64,7 @@ Status of ${this.name}:`);
         }
         // -Pokemon is fighting/ in a battle involved:
         else {
-          console.log(`${this.name} is in a battle involved!`);
+          console.log(`${this.name} is involved in a battle!`);
         }
       }
       console.log(
